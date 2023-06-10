@@ -1,1 +1,2 @@
-print("Config")
+require("config.remap")
+require("config.set")
